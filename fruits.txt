@@ -1,4 +1,5 @@
 Apple
-Banana
+Pear
 Mango
-watermelon
+Pineapple
+Papaya
